@@ -4,7 +4,7 @@
 * @version 0.1
 */
 
-package util;
+package org.macrobug.util;
 
 import javax.swing.*;
 import java.awt.*;

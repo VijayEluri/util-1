@@ -5,7 +5,7 @@
  * SUN PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
 
-package util;
+package org.macrobug.util;
 import java.io.File;
 import java.util.Hashtable;
 import java.util.Enumeration;

@@ -2,7 +2,7 @@
 * @author SaThot
 * @version 0.8
 * @(#)Version.java*/
-package util;
+package org.macrobug.util;
 /**
 * Semplice classe che definisce la versione del software
 */

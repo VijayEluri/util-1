@@ -3,7 +3,7 @@
 * @version 0.1
 * @author SaThot
 */
-package util;
+package org.macrobug.util;
 
 import java.awt.event.*;
 import javax.swing.text.*;

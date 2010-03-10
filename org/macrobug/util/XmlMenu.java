@@ -1,4 +1,4 @@
-package util;
+package org.macrobug.util;
 
 import javax.xml.parsers.*;
 import javax.xml.transform.dom.*;

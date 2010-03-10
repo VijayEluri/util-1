@@ -3,7 +3,7 @@
 * @version 0.1
 * @(#)Splash
 */
-package util;
+package org.macrobug.util;
 
 import java.awt.*;
 import javax.swing.*;

@@ -5,7 +5,7 @@
  * @author SaThot
  * @see Dialogo#Dialogo
  */
-package util;
+package org.macrobug.util;
 
 import javax.swing.*;
 import java.awt.*;

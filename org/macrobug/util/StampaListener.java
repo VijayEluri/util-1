@@ -1,4 +1,4 @@
-package util;
+package org.macrobug.util;
 
 import java.io.*;
 import javax.swing.*;
