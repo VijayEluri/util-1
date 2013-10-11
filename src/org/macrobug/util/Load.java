@@ -45,7 +45,7 @@ public class Load extends JPanel implements ActionListener{
 			input=new FileReader(f);
 		}
 		catch(IOException exce){
-			Dialogo2 d=new Dialogo2("Errore","File Non Trovato\nMa xchè se ho usato il FileChooser?\nchissà");
+			Dialogo2 d=new Dialogo2("Errore","File Non Trovato\nMa xchï¿½ se ho usato il FileChooser?\nchissï¿½");
 			d.setVisible(true);;
 		}
 		BufferedReader buff=new BufferedReader(input);
@@ -57,7 +57,7 @@ public class Load extends JPanel implements ActionListener{
 			}
 		}
 		catch(IOException dioDog){
-			Dialogo2 d=new Dialogo2("Errore di Lettura","Boh, non sò cosa è successo\nProva a chiudere e riAprire");
+			Dialogo2 d=new Dialogo2("Errore di Lettura","Boh, non sï¿½ cosa ï¿½ successo\nProva a chiudere e riAprire");
 			d.setVisible(true);
 		}
 	}

@@ -2,6 +2,7 @@ package org.macrobug.util;
 
 import java.io.*;
 import javax.swing.*;
+
 import java.awt.event.*;
 
 public class StampaListener implements ActionListener{

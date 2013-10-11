@@ -78,7 +78,7 @@ public class Dialogo2 extends JDialog{
 			if(url!=null){
 				try{
 					edit.setPage(url);
-        /*questo servirà per i link
+        /*questo servirï¿½ per i link
          *per ora inutilizzato
          *         	edit.addHyperlinkListener(createHyperLinkListener());*/
         		}
